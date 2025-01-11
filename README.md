@@ -1,4 +1,4 @@
 # Waste_Management_Classification
 This project focuses on Waste Management through the application of machine learning techniques to classify and identify waste types using image recognition. The dataset consists of over 22,000 images categorized into two classes, enabling the model to learn and differentiate between various types of waste effectively. Utilizing TensorFlow and Keras, the project implements a Convolutional Neural Network (CNN) architecture that processes and analyzes the images for accurate classification. The model is trained using a well-structured approach, ensuring high accuracy and reliability in predictions. Additionally, the project includes a user-friendly interface that allows users to upload images for real-time waste classification, promoting efficient waste management practices. This initiative not only demonstrates the potential of artificial intelligence in environmental sustainability but also aims to raise awareness about proper waste disposal methods.
 
-Dataset:-https://www.kaggle.com/datasets/techsash/waste-classification-data
+Dataset link :-https://www.kaggle.com/datasets/techsash/waste-classification-data
